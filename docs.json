@@ -23,6 +23,7 @@
           {
             "group": "Safety",
             "pages": [
+              "safety/verified-badges",
               "safety/safety-flags"
             ]
           }
