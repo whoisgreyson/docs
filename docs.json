@@ -36,18 +36,11 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
+              "community-safety/introduction",
+              "community-safety/community-standards",
+              "community-safety/verified-badge"
             ]
           },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
         ]
       }
     ],
