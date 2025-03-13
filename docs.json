@@ -7,7 +7,7 @@
     "light": "#FF5757",
     "dark": "#FF5757"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://res.cloudinary.com/diguvsjee/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1741834870/icon_iecwts.png",
   "navigation": {
     "tabs": [
       {
