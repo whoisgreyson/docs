@@ -11,45 +11,41 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Information",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Operations",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "operations/about-us",
+              "operations/filing-reports",
+              "operations/safety-systems",
+              "operations/affiliate-program"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Legal Provisions",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "legal-provisions/terms",
+              "legal-provisions/privacy",
+              "legal-provisions/equality"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Safety",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Badges",
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Proactive Prevention",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "prevention/impersonation",
+              "prevention/staff-misconduct"
             ]
           }
         ]
