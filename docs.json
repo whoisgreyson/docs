@@ -3,9 +3,9 @@
   "theme": "palm",
   "name": "Talentis",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#508C9B",
+    "light": "#518C9B",
+    "dark": "#134B70"
   },
   "favicon": "/talentis_white.png",
   "navigation": {
