@@ -61,15 +61,11 @@
   },
   "navbar": {
     "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Support Server",
+      "href": "https://discord.com/invite/xPy5C724fu"
     }
   },
   "footer": {
