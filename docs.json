@@ -11,13 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Talentis",
         "groups": [
           {
             "group": "Introduction",
             "pages": [
-              "index",
-              "quickstart",
+              "intro/welcome",
+              "intro/services",
               "development"
             ]
           },
