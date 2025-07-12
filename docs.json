@@ -25,11 +25,7 @@
             "group": "Services",
             "pages": [
               "services/certifications",
-              "services/staff-docs",
-              "services/images",
-              "services/settings",
-              "services/navigation",
-              "services/reusable-snippets"
+              "services/staff-docs"
             ]
           }
         ]
