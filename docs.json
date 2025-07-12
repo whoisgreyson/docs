@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "palm",
+  "theme": "willow",
   "name": "Talentis",
   "colors": {
     "primary": "#508C9B",
@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Services",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "services/certifications",
+              "services/staff-docs",
+              "services/images",
+              "services/settings",
+              "services/navigation",
+              "services/reusable-snippets"
             ]
           }
         ]
